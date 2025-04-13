@@ -1,3 +1,3 @@
 fn world() -> String {
-    "Hello World"
+    "Hello World".to_string()
 }
