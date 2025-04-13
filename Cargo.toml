@@ -1,7 +1,7 @@
 [package]
 name = "seungjin"
 version = "0.1.0"
-author = "Seungjin Kim <seungjin@duck.com>"
+authors = ["Seungjin Kim <seungjin@duck.com>"]
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/seungjin/seungjin-crate"
 homepage = "https://github.com/seungjin/seungjin-crate"
