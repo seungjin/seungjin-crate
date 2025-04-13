@@ -5,7 +5,7 @@ author = "Seungjin Kim <seungjin@duck.com>"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/seungjin/seungjin-crate"
 homepage = "https://github.com/seungjin/seungjin-crate"
-documentation = "" 
+documentation = "https://github.com/seungjin/seungjin-crate" 
 readme = "README.md"
 description = """
 seungjin's rust crate
