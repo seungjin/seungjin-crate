@@ -1,3 +1,3 @@
-fn pi() {
+pub fn pi() {
     println!("ras");
 }
