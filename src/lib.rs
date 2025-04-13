@@ -1,2 +1,2 @@
-mod hello;
-mod spin;
+pub mod hello;
+pub mod spin;
